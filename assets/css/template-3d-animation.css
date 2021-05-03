@@ -4535,7 +4535,7 @@ p {
   }
   .head-area .head-content h1 {
     font-size : 1.2rem;
-    line-height : 1.8rem;
+    line-height : 1.0rem;
   }
   .head-area .head-content h3 {
     margin-top : 2rem !important;
@@ -4786,7 +4786,7 @@ p {
   }
   .head-area .head-content h1 {
     font-size : 1.5rem;
-    line-height : 2rem;
+    line-height : 0rem;
   }
   .head-area .head-content h3 {
     margin-top : 2rem !important;
@@ -4859,7 +4859,8 @@ p {
   }
   .head-area .head-content h1 {
     font-size : 1.5rem;
-    line-height : 2rem;
+    line-height : 0rem;
+    /* margin-bottom: -5px; */
   }
   .head-area .head-content h3 {
     margin-top : 2rem !important;
