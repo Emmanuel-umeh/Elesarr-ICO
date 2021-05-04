@@ -1,12 +1,3 @@
-/**
- *   File Name: sales-notification.js
- *   Description: Sales Notifications list JS.
- *   -------------------------------------------------------------------------------------------
- *   Item Name: Crypto ICO - Cryptocurrency Website Landing Page HTML + Dashboard Template
- *   Version: 1.0  
- *   Author: Pixinvent
- *   Author URL: http://www.themeforest.net/user/pixinvent
- **/
 
 
 $(window).on('load', function() {
