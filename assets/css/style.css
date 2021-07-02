@@ -37,7 +37,6 @@ body {
 h1 {
     font-size: 24px;
     font-weight: 400;
-    text-align: center;
 }
 
 img {
@@ -156,4 +155,8 @@ img {
 .content2 {
   font-size: 0.8em;
   margin: 0;
+}
+
+.alloc{
+  color: white;
 }
